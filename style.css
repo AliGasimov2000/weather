@@ -10,7 +10,7 @@ body {
   height: 450px;
   width: 500px;
   color: #ffffff;
-  background-color: #a0f9eb;
+  background-color: #BDE0FE;
   border-radius: 20px;
 }
 #weather .box .data h1, #weather .box .data h2 {
@@ -19,7 +19,7 @@ body {
   font-style: italic;
 }
 #weather .box .data input {
-  border: 3px solid #f9cf46;
+  border: 3px solid #edede9;
   padding: 5px 10px;
   border-radius: 20px;
 }
@@ -33,12 +33,15 @@ body {
   color: white;
   font-size: 40px;
 }
+#weather ul .icon:hover {
+  color: #4015c1;
+}
 #weather .btn {
   margin-top: 10px;
-  background-color: #f1d524;
   padding: 10px;
   color: white;
   border-radius: 20px;
+  font-size: 22px;
 }
 #weather .btn:hover {
   text-decoration: underline;
