@@ -37,11 +37,13 @@ body {
   color: #4015c1;
 }
 #weather .btn {
-  margin-top: 10px;
-  padding: 10px;
+  margin-top: 18px;
+  padding: 6px 20px;
   color: white;
   border-radius: 20px;
-  font-size: 22px;
+  font-size: 19px;
+  border: 1px solid #4015c1;
+  background-color: #3A86FF;
 }
 #weather .btn:hover {
   text-decoration: underline;
