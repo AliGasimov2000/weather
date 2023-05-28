@@ -19,7 +19,7 @@ body {
   font-style: italic;
 }
 #weather .box .data input {
-  border: 3px solid #edede9;
+  border: 2px solid #edede9;
   padding: 5px 10px;
   border-radius: 20px;
 }
